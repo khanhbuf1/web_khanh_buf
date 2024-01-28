@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-image: url(bai30_9.jpg);
+    /* position: relative; */
+    /* height: 521px; */
+    height: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cm1{
+    color: black;
+                    font-weight: 500;
+                    position: absolute;
+                    font-size: 75px;
+                    width: 25%;
+                    top: 140px;
+                    left: 8%;
+                    text-align: start;
+}
+.cm2{
+    color: black;
+                    font-weight: initial;
+                    position: absolute;
+                    font-size: 29px;
+                    width: 40%;
+                    top: 450px;
+                    left: 8%;
+}
+.hop1{
+    width: 213px;
+    height: 70px;
+    background-color: white;
+    position: absolute;
+    top: 9%;
+    left: 45%;
+}
+.hop2{
+    width: 684px;
+    height: 120px;
+    background-color: white;
+    position: absolute;
+    top: 70%;
+    left: 55%;
+}
+.hop3{
+    width: 184px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+   top: 0;
+    right: 0;
+}
+.anh_1{
+    position: absolute;
+                top: 11%;
+                left: 62%;
+                height: 650px;
+                width: 300px;
+}
+.anh_2{
+    position: absolute;
+                    top: 4%;
+                    left: 53%;
+}
+.anh_3{
+    position: absolute;
+                    top: 0%;
+                    left: 78%;
+}
+.anh_4{
+    position: absolute;
+                    top: 35%;
+                    width: 220.666666667px;
+                    height: 288.666666667px;
+                    left: 83%;
+}
+.icon{
+    font-size: 50px;
+    margin-top: 25%;
+    margin-left: 10%;
+}
+.icon:hover{
+    color: aqua;
+}

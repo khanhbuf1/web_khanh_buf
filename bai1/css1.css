@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-image: url(anh3.jpg);
+    /* height: 521px; */
+    height: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hop1 {
+    position: absolute;
+    left: 100px;
+    bottom: 60px;
+    /* border-top: 1px solid #fff; */
+    width: 400px;
+    color: #fff;
+}
+
+.hop1 .icons{
+    font-size: 20px;
+    display: flex ;
+    gap: 20px;
+    margin-top: 20px;color: #fff;
+}
+.hop1 .hr {
+    width: 100px;
+    height: 1px;
+    background-color: #fff;
+}
+                .cm1{
+                    color: black;
+                    font-weight: 200;
+                    position: absolute;
+                    font-size: 22px;
+                    top: 150px;
+                    left: 500px;
+                }
+                .cm2{
+                    color: black;
+                    font-weight: 600;
+                    position: absolute;
+                    font-size: 60px;
+                    width: 25%;
+                    top: 190px;
+                    left: 500px;
+                }
+                .cm3{
+                    color: black;
+                    font-weight: 300;
+                    position: absolute;
+                    font-size: 29px;
+                    width: 20%;
+                    top: 410px;
+                    left: 500px;
+                }
+                .cm4{
+                    margin-top: 20px;
+                    font-size: 20px;
+                }
+                .cm4:hover{
+                    color: black;
+                }
+                .icons:hover{
+                    color: aqua;
+
+                }

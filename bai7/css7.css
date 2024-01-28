@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+.container{
+    background-image: url(bai30_7.jpg);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.bao_cm{
+    text-align: end;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    margin-right: 10%;
+    color: white;
+    
+
+}
+.hop1{
+    width: 75%;
+    height: 100px;
+
+}
+.cm1{
+    font-size: 40px;
+    color: white;
+}
+.cm2{
+    font-size: 25px;
+    color: white;
+}
+.cm3{
+    color: rgb(179, 175, 175);
+    font-size: 19px;
+}
+.cm4{
+    color: rgb(179, 175, 175);
+    font-size: 19px;
+}
+.cm4:hover{
+    color: aqua;
+}
+.cm3:hover{
+    color: aqua;
+}

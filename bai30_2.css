@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+    width: 80vw;
+    height: 60vh;
+    background-image: url("anh31.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+  }
+  .bao_logo{
+    margin-top: 26%;
+    position: absolute;
+  }
+  .bao_1{
+    position: relative;
+  }
+  .logo{
+    font-size: 80px;
+  }
+  .cm_logo{
+    font-size: 40px;
+  }
+  .hop1{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 20px;
+    width: 205%;
+    height: 200px;
+  }
